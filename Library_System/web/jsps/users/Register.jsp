@@ -39,7 +39,7 @@
             </datalist>
         </div>
 
-        <button id="submit" type="submit">注 册</button>
+        <button id="submit" type="submit">注册</button>
     </form>
     <a href="Login.jsp">
         <button type="button" class="register-tis">已经有账号？</button>
